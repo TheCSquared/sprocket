@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sprocket", "Sprocket\Sprocket.csproj", "{009A4673-E20B-4B32-BF95-B5F8B7DE099B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SprocketTests", "SprocketTests\SprocketTests.csproj", "{EA154E32-D549-4125-8116-1C9931098A1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{009A4673-E20B-4B32-BF95-B5F8B7DE099B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009A4673-E20B-4B32-BF95-B5F8B7DE099B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009A4673-E20B-4B32-BF95-B5F8B7DE099B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009A4673-E20B-4B32-BF95-B5F8B7DE099B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA154E32-D549-4125-8116-1C9931098A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA154E32-D549-4125-8116-1C9931098A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA154E32-D549-4125-8116-1C9931098A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA154E32-D549-4125-8116-1C9931098A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD5C69B2-CB84-4032-BFF6-26F824DC6E92}
+	EndGlobalSection
+EndGlobal
